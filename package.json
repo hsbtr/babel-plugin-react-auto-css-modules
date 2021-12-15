@@ -21,12 +21,8 @@
     "prepublish": "npm run clean && npm run build"
   },
   "keywords": [
-    "create",
-    "react",
-    "ap",
-    "css",
-    "modules",
-    "p",
+    "create-react-app",
+    "css modules",
     "babel-plugin"
   ]
 }
